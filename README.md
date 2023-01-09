@@ -17,3 +17,19 @@ And invite bot to your server.
 
 ## Getting started
 Download or clone this repo and install all dependencies.
+
+Open `.env` file, and add your bot token :
+```
+TOKEN=YourBotTokenHere
+CLIENT_ID=YourBotClientIDHere
+```
+
+## Run the bot
+For development :
+```
+npm run dev
+```
+Production :
+```
+npm start
+```
