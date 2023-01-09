@@ -1,0 +1,23 @@
+{
+  "name": "discordjs-v14-starter",
+  "version": "1.0.0",
+  "description": "Discord.js v14 starter for building discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord.js"
+  ],
+  "author": "rivldy",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
